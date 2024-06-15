@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3973214e83f37294ca2ab997026061da
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: d0547f8ef7d57384b81d390edca19022
+  - enabled: 1
+    path: Assets/Scenes/CATOMANIA.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/DeathScreen.unity
+    guid: 44c8d96608d3d4b4d8c271f8c8d33691
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: c598ccf19f604274893052d987ad9716, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 1fb8815c2cdbd9644a78bba4c91d577e, type: 2}
